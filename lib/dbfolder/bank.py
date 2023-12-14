@@ -1,6 +1,6 @@
 import os
-from view_records import list_all_customers, list_transactions_for_customer, list_accounts_for_customer
-from add_records import (
+from lib.dbfolder.view_records import list_all_customers, list_transactions_for_customer, list_accounts_for_customer
+from lib.dbfolder.add_records import (
     add_customer_to_db, add_account_to_db, customer_exists,
     add_transaction_to_db, account_exists,
     get_customer_id_and_balance_for_account, update_account_balance
