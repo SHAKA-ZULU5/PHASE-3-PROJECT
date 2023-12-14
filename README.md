@@ -1,14 +1,16 @@
 # PHASE-3-PROJECT
 
-#  How to use it  :)
+#  How to use it 🙂
 
-[![Alt see how to use it ](https://i.postimg.cc/4ygX60Cx/Screencast-from-2023-12-15-01-28-56.gif)](Link_URL)
+[![See how to use it](https://i.postimg.cc/4ygX60Cx/Screencast-from-2023-12-15-01-28-56.gif)](Link_URL)
 
 
-This bank management system project  performs the essential functions of banking software. It lets the user
-* See database records.
-* Create records
-* Delete records!
+This bank management system project performs the essential functions of banking software. It allows the user to:
+
+- View database records.
+- Create records.
+- Delete records.
+
 [Preview](https://ibb.co/fQymvmn)
 
 
@@ -19,7 +21,7 @@ This bank management system project  performs the essential functions of banking
 
      
 ## Table of Contents
-- [Technologiesused](#technologiesused)
+- [Technologiesused](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 
