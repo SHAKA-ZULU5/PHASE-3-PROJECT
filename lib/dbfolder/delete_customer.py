@@ -1,4 +1,4 @@
-from models import Customer, Account, Transaction  # Adjust the import path if needed
+from lib.dbfolder.models import Customer, Account, Transaction  # Adjust the import path if needed
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
 
