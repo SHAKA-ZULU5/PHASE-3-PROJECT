@@ -5,7 +5,7 @@ from add_records import (
     add_transaction_to_db, account_exists,
     get_customer_id_and_balance_for_account, update_account_balance
 )
-from delete_customer import delete_customer_and_associated_data
+from lib.dbfolder.delete_customer import delete_customer_and_associated_data
 from datetime import datetime
 
 # ANSI color codes for text formatting
