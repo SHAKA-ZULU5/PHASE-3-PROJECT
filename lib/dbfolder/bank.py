@@ -1,11 +1,11 @@
 import os
-from lib.dbfolder.view_records import list_all_customers, list_transactions_for_customer, list_accounts_for_customer
-from lib.dbfolder.add_records import (
+from view_records import list_all_customers, list_transactions_for_customer, list_accounts_for_customer
+from add_records import (
     add_customer_to_db, add_account_to_db, customer_exists,
     add_transaction_to_db, account_exists,
     get_customer_id_and_balance_for_account, update_account_balance
 )
-from lib.dbfolder.delete_customer import delete_customer_and_associated_data
+from delete_customer import delete_customer_and_associated_data
 from datetime import datetime
 
 # ANSI color codes for text formatting

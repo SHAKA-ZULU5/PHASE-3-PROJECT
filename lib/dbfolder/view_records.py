@@ -1,5 +1,5 @@
 from sqlalchemy.orm import sessionmaker
-from lib.dbfolder.models import Customer, Transaction, Account
+from models import Customer, Transaction, Account
 
 from sqlalchemy import create_engine
 

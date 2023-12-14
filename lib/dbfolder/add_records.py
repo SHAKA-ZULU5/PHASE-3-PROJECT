@@ -1,5 +1,5 @@
 from sqlalchemy.orm import sessionmaker
-from lib.dbfolder.models import Customer ,Account,Transaction # Adjust the import path
+from models import Customer ,Account,Transaction # Adjust the import path
 
 
 # Create an SQLAlchemy session
