@@ -49,7 +49,7 @@ cd PHASE-3-PROJECT
 
 The root directory of this repository contains the `Pipfile` with all the required Python libraries for this project and restricts them to this repository.
 
-To install `Dependensy` and any other required libraries, run:
+To install `Dependency` and any other required libraries, run:
 
 ```python
 pipenv install
@@ -63,7 +63,7 @@ pipenv shell
 
 
 ## Usage
-* To launch the project follow this commands:
+* To launch the project follow these commands:
 ```python
 cd lib/dbfolder
 ```
