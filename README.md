@@ -141,7 +141,7 @@ Authored by [Khalid Mohamed](https://github.com/khalid0310) on behalf of [SHAKA-
 Collaborators:
 - [Brian Kawa](https://github.com/briankawa)
 - [Amar Ahmednur](https://github.com/amaar7)
-- [Denis Laboson](https://github.com/Laboso2023)
+- [Denis Laboso](https://github.com/Laboso2023)
 - [Owen Smith](https://github.com/mwangiowen)
 
 Repository: [PHASE-3-PROJECT](https://github.com/SHAKA-ZULU5/PHASE-3-PROJECT)
